@@ -171,7 +171,6 @@ public class DetailActivity  extends AppCompatActivity {
         Picasso.with(this).load(Uri.parse(items.get(position1).getImg())).error(R.drawable.ic_nocover).into(ivBookCover);
 
         //Comida detailCourse = Comidas.getCourseByPosition(items,position);
-        Toast.makeText(this, ""+itemss.get(position1).toString(), Toast.LENGTH_SHORT).show();
         videos.getExtraVideos(itemss.get(position1).toString(),new JsonHttpResponseHandler() {
             public void onSuccess(int statusCode, Header[] headers, JSONObject response) {
 
