@@ -16,3 +16,36 @@ En la seccion de Inicio puedes encontrar los proximos estrenos en peliculas, se 
 # SearchFilm
 
 # SearchTV
+
+# Peliculas
+
+Seccion donde el usuario puede encontrar las secciones de las peliculas mas valoradas, mas populares y las que estan en cartelera, entre la informacion que puedes encontrar en el list se detalla, el nombre de la pelicula y su valoracion
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/-lhzC87AWMRk/WRCVzbU_WTI/AAAAAAAAAQQ/vOsf2r--jfUpHdsrScXR5mfvCLwOMCMVgCJoC/w180-h320-p-rw/17%2B-%2B1" width="150"/>
+</p>
+
+## List+Details, Datos de Api - Sergio Martinez
+
+# Series
+
+Seccion donde el usuario puede encontrar las secciones de las series mas valoradas, populares en TV y las que estan emitiendose, entre la informacion que puedes encontrar en el list se detalla, el nombre de la pelicula y su valoracion
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/-Ryb7pHeOpKI/WRCWY4gTGJI/AAAAAAAAAQo/k4TRQzPNtu4a2AryXbgUje6clUucfaqdACL0B/w180-d-h320-p-rw/17%2B-%2B1" width="150"/>
+</p>
+
+## List+Details, Datos de Api - Sergio Martinez
+
+
+# Favorites
+
+# Visto
+
+# Pendientes
+
+# Forum
+
+En la seccion de Foro, los usuarios pueden compartir sus opiniones entre ellos
+
+# Ayuda y FAQs
+
+# Idioma
